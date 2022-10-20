@@ -1,5 +1,5 @@
 #include <stdio.h>
-/
+/**
  * main - print out sizes of data type in c
  * code by bwave ict
  * Return 0
